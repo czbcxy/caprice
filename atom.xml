@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://czbcxy.github.io/"/>
-  <updated>2019-07-13T07:50:17.388Z</updated>
+  <updated>2019-07-13T07:41:50.000Z</updated>
   <id>http://czbcxy.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FIFO</title>
+    <link href="http://czbcxy.github.io/2018/09/07/fifo/"/>
+    <id>http://czbcxy.github.io/2018/09/07/fifo/</id>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <updated>2019-07-13T07:41:50.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;####上周面试了一个公司，不出意外的挂在了算法上，不过相比之前这次面试挂的更惨，一道FIFO的面试题。&lt;/p&gt;
+&lt;h6 id=&quot;下面来看看这道面试题：&quot;&gt;&lt;a href=&quot;#下面来看看这道面试题：&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="interview" scheme="http://czbcxy.github.io/categories/interview/"/>
+    
+    
+      <category term="algorithm" scheme="http://czbcxy.github.io/tags/algorithm/"/>
+    
+  </entry>
   
   <entry>
     <title>HelloWorld</title>

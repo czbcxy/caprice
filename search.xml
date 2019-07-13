@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>FIFO</title>
+      <link href="/2018/09/07/fifo/"/>
+      <url>/2018/09/07/fifo/</url>
+      
+        <content type="html"><![CDATA[<p>####上周面试了一个公司，不出意外的挂在了算法上，不过相比之前这次面试挂的更惨，一道FIFO的面试题。</p><h6 id="下面来看看这道面试题："><a href="#下面来看看这道面试题：" class="headerlink" title="下面来看看这道面试题："></a>下面来看看这道面试题：</h6><h5 id="题目要求："><a href="#题目要求：" class="headerlink" title="题目要求："></a>题目要求：</h5><pre><code>   输入: &quot;()())()&quot; 输出: [&quot;()()()&quot;, &quot;(())()&quot;]   示例 2:   输入: &quot;(a)())()&quot;   输出: [&quot;(a)()()&quot;, &quot;(a())()&quot;]   示例 3:   输入: &quot;)(&quot;   输出: [&quot;&quot;]</code></pre><p>#####当看到这道题，视乎很简单，不出意外的必然的我采用了遍历。</p><p>######一大堆遍历，之后我发现，越来越多的问题，根本无法解决，代码越写越多，问题随之越多。</p><p>######当然不出意外的我也挂了。</p><p>###回家后一番百度，对视茅塞顿开，原来如此。这也是leecode上的题，具体解法如下：</p><pre><code>      public static void main(String[] args) {            String s = &quot;(()){}[][&quot;;            Stack&lt;String&gt; stack = new Stack&lt;&gt;();            char[] chs = s.toCharArray();            for (char c : chs) {                switch (String.valueOf(c)) {                    case &quot;[&quot;:                        stack.push(&quot;[&quot;);                        break;                    case &quot;]&quot;:                        if (stack.empty()) {                            return false;                        }                        if (!stack.pop().equals(&quot;[&quot;)) {                            return false;                        }                        break;                    case &quot;(&quot;:                        stack.push(&quot;(&quot;);                        break;                    case &quot;)&quot;:                        if (stack.empty()) {                            return false;                        }                        if (!stack.pop().equals(&quot;(&quot;)) {                            return false;                       }                        break;                    case &quot;{&quot;:                        stack.push(&quot;{&quot;);                        break;                    case &quot;}&quot;:                        if (stack.empty()) {                            return false;                        }                        if (!stack.pop().equals(&quot;{&quot;)) {                            return false;                        }                        break;                }            }            if (stack.empty()) {                return true;            }            return false;        }</code></pre><p>###面试总结：<br>    面对为题一定要细心，分析</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> interview </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> algorithm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HelloWorld</title>
       <link href="/2018/09/07/hello-world/"/>
       <url>/2018/09/07/hello-world/</url>
