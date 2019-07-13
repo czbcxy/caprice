@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>HelloWorld</title>
+      <link href="/2018/09/07/hello-world/"/>
+      <url>/2018/09/07/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Demo </tag>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>demo</title>
+      <link href="/2018/09/07/demo/"/>
+      <url>/2018/09/07/demo/</url>
+      
+        <content type="html"><![CDATA[<p>jdksl;afjdsa<br>fdsafd<br>sa<br>fdsa<br>fds</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Spring </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Spring</title>
+      <link href="/2018/09/07/spring/"/>
+      <url>/2018/09/07/spring/</url>
+      
+        <content type="html"><![CDATA[<p>This Week in Spring - July 9th, 2019<br> ENGINEERING   JOSH LONG   七月 9, 2019<br>Hi Spring fans! Welcome to another installment of This Week in Spring! I’ve just returned from Medellín, Columbia, yesterday, and am now in sunny Chicago for the epic SpringOne Tour Chicago event. And tomorrow, it’s off to Lima, Peru. It’s figuring to be quite a week!</p><p>As usual, we’ve got a lot to get to so let’s do!</p><p>READ MORE…<br>Spring Cloud Data Flow 2.2.0.M1 Released<br> ENGINEERING   ILAYAPERUMAL GOPINATHAN   七月 9, 2019<br>The Spring Cloud Data Flow team is pleased to announce the milestone release 2.2.0.M1.</p><p>Along with some enhancements and bug fixes, here are some of the highlights of the release:</p><p>Metrics for Tasks<br>Metrics and monitoring continue to be one of the important themes for Spring Cloud Data Flow. Building upon the InfluxDB integration that we have for streams, in 2.2, we are adding support for Tasks, too. The core of the Micrometer integration landed in Spring Cloud Task’s 2.2.0 release-line, which by the way is a requirement if you are going to try out the Task-metrics and the SCDF integration.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Spring </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
