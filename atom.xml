@@ -3,11 +3,11 @@
   <title>Golden eagle</title>
   
   <subtitle>Golden eagle</subtitle>
-  <link href="/czbcxy.gitee.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://czbcxy.gitee.io/"/>
+  <link href="http://czbcxy.github.io/"/>
   <updated>2019-07-13T09:51:15.565Z</updated>
-  <id>http://czbcxy.gitee.io/</id>
+  <id>http://czbcxy.github.io/</id>
   
   <author>
     <name>Golden eagle</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>FIFO</title>
-    <link href="http://czbcxy.gitee.io/2018/09/07/fifo/"/>
-    <id>http://czbcxy.gitee.io/2018/09/07/fifo/</id>
+    <link href="http://czbcxy.github.io/2018/09/07/fifo/"/>
+    <id>http://czbcxy.github.io/2018/09/07/fifo/</id>
     <published>2018-09-07T01:25:00.000Z</published>
     <updated>2019-07-13T09:51:15.565Z</updated>
     
@@ -36,10 +36,10 @@
     
     </summary>
     
-      <category term="interview" scheme="http://czbcxy.gitee.io/categories/interview/"/>
+      <category term="interview" scheme="http://czbcxy.github.io/categories/interview/"/>
     
     
-      <category term="algorithm" scheme="http://czbcxy.gitee.io/tags/algorithm/"/>
+      <category term="algorithm" scheme="http://czbcxy.github.io/tags/algorithm/"/>
     
   </entry>
   
